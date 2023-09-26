@@ -1,0 +1,10 @@
+{
+  "private": "true",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "exifr": "^7.1.3"
+  }
+}
